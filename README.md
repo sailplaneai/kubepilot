@@ -1,0 +1,2 @@
+# kubepilot
+kubepilot binary releases
